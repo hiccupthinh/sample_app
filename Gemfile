@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+group :development do
+  gem 'taps'
+  gem 'rvm'
+end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
